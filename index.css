@@ -1,0 +1,78 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#sample{
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    height: 343px;
+    align-items: center;
+    flex-direction: column;
+    background: url(/Images/india.jpg);
+    background-size: cover;
+    margin: 0;   
+    padding: 0%;
+}
+#main-title
+{
+    background:  #1D3557;    
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    
+}
+#main-subtitle
+{
+    background: #457B9D;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 5px;
+    
+}
+#amritsar-img{
+    width: 150px;
+    height: 150px;
+border-radius: 90%;
+
+}
+#cities{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+#sample-sub{
+    background: #F1FAEE;
+}
+
+#secondmain-title
+{
+    margin-top: 0px;
+}
+
+#profile-photo{
+    width: 180px;
+    height: 248px;
+    border-radius: 20px;
+    
+}
+#business-card{
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    margin: 50px auto;
+    background:#A8DADC ;
+    padding: 25px;
+    border-radius: 20px;
+    color: #1D3557;
+    border-bottom: 10px solid #1D3557;
+     
+}
+
